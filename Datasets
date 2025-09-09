@@ -1,0 +1,7 @@
+This project uses public datasets:
+
+MIMIC-IV (medical data) - requires registration at https://mimic-iv.mit.edu/
+
+SEC filings - https://www.sec.gov/edgar.shtml
+
+Pushshift Reddit data - https://pushshift.io/
